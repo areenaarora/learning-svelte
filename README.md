@@ -17,3 +17,4 @@ When a browser loads a website, it first looks for the html page `index.html` pa
 
 ## Getting started
 1. Components: These are the building blocks of Svelete
+2. Node: Open source, cross platform, back end JS environment? Node allows developers to write JavaScript code that runs directly in a computer process itself instead of in a browser. A JavaScript library for running web applications outside the client's browser.
