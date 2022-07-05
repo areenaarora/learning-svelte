@@ -16,5 +16,5 @@ Here's some examples:
 When a browser loads a website, it first looks for the html page `index.html` page. When the browswer encounters a `<script>` tag, it looks for the other external file and executes it. This can cause a bad, slower user experience— because the website stops loading until all the script tags are executed. So! What's the fix?
 
 ## Getting started
-1. Components: These are the building blocks of Svelete
-2. Node: Open source, cross platform, back end JS environment? Node allows developers to write JavaScript code that runs directly in a computer process itself instead of in a browser. A JavaScript library for running web applications outside the client's browser.
+1. Components: These are the building blocks of Svelete. 
+Uhhh okay? What does that even mean? For this and more confusing questions, please refer to my FAQs doc— a handy dandy guide of sorts!
